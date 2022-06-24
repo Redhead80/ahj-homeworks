@@ -1,4 +1,5 @@
 [![Build status](https://ci.appveyor.com/api/projects/status/73vr36u24o832oxr/branch/simplification?svg=true)](https://ci.appveyor.com/project/Redhead80/ahj-homeworks/branch/simplification)
+
 **Важно**: все задачи к данной лекции можно выполнить в виде одного репозитория (т.е. допускается не делать отдельные репозитории на каждую задачу).
 
 ### Continuous Deployment
