@@ -164,15 +164,5 @@
     "build": "webpack --mode production",
     "lint": "eslint . --fix",
     "test": "jest"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/AlexanderSamisko/js-advanced-diploma.git"
-  },
-  "author": "",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/AlexanderSamisko/js-advanced-diploma/issues"
-  },
-  "homepage": "https://github.com/AlexanderSamisko/js-advanced-diploma#readme"
+  }
 }
