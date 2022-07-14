@@ -17,7 +17,7 @@ export default class Info {
 
     const whereAreWe = document.createElement('p');
     whereAreWe.className = 'info-card';
-    whereAreWe.textContent = 'Here is our humble taskmanager.';
+    whereAreWe.textContent = 'Here is our simplified taskmanager.';
     InfoColumn.append(whereAreWe);
 
     const youCan = document.createElement('p');
